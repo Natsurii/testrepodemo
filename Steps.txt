@@ -2,7 +2,7 @@ Steps.txt
 
 
 1. Add 1 + 1 
-Answer:
+Answer: 2
 
 
 2. What is the powerhouse of the cell
