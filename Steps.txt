@@ -2,15 +2,15 @@ Steps.txt
 
 
 1. Add 1 + 1 
-Answer: Yes
+Answer:
 
 
 2. What is the powerhouse of the cell
-Answer: Mitoc*****
+Answer:
 
 
 3: What is the color when added blue and red
-Answer: Rainbow
+Answer:
 
 
 4: Define chair
